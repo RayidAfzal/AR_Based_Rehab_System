@@ -1,0 +1,9 @@
+# requirements.txt
+
+numpy
+matplotlib
+mediapipe==0.10.14
+pygame
+opencv-python
+customtkinter
+pillow
