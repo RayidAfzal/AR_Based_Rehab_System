@@ -21,16 +21,16 @@ The system uses hand tracking and motion analysis to create engaging rehabilitat
 
 ## Therapy Modules
 
-### Fruit Ninja
+-### Fruit Ninja 🍉 
 Gesture-controlled slicing game for improving hand movement precision and reaction time.
 
-### Finger Tap
+-### Finger Tap
 Finger tapping coordination and response training module.
 
-### Balloon Rehab
+-### Balloon Rehab
 
 
-### Laser Slice
+-### Laser Slice
 
 
 ---
