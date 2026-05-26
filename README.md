@@ -28,10 +28,10 @@ Gesture-controlled slicing game for improving hand movement precision and reacti
 Finger tapping coordination and response training module.
 
 - ### Balloon Rehab 🎈
-
+Interactive balloon popping exercise designed to enhance hand-eye coordination, movement control, and reaction speed.
 
 - ### Laser Slice 🪚
-
+Fast-paced gesture slicing module focused on improving precision, reflexes, and upper-limb motor coordination.
 
 ---
 
